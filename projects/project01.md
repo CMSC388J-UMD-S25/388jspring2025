@@ -1,10 +1,10 @@
 # P1: Python practice 
 
-**Assigned**: Aug 30, 2024
+**Assigned**: Jan 31, 2025
 
-**Due**: Sept 6, 2024 11:59PM
+**Due**: Feb 7, 2025 2:59PM
 
-**Late deadline**: Sept 9th, 2024 11:59PM
+**Late deadline**: Feb 10th, 2025 11:59PM
 
 ## Description
 
@@ -177,7 +177,7 @@ First, make sure all your changes are pushed to GitHub using the git add, git co
 
 Next, to submit your project, you can run `submit` from your project directory.
 > [!NOTE]
-> you will need to have `opam` package `gradescope-submit` installed. If you don't have it on your system from 330, you can use the UI on Gradescope to link your Github repository.
+> you will need to have `opam` package `gradescope-submit` installed. If you don't have it on your system from 330, you can use the UI on Gradescope to link your Github repository or you can look at the 330 project0 readme for [installation instructions](https://github.com/cmsc330fall23/cmsc330fall23/blob/main/projects/project0.md#windows).
 
 The submit command will pull your code from GitHub, not your local files. If you do not push your changes to GitHub, they will not be uploaded to Gradescope.
 
