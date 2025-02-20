@@ -13,12 +13,23 @@ posts = [
     }
 ]
 
+# @app.route()
 @app.route('/')
-@app.route('/index')
 def index_route():
     return render_template('index.html', posts=posts)
 
-@app.route('/user/<user>')
-def user_route(user):
-    user_posts = [post for post in posts if post['user'] == user]
-    return render_template('user.html', user=user, user_posts=user_posts)
+# @app.route()
+# def user_route(user):
+#     user_posts = [post for post in posts if post['user'] == user]
+#     return render_template('user.html', user=user, user_posts=user_posts)
+
+
+# @app.route()
+# def test_route():
+#     var = 'Hello, World! from var'
+#     return render_template('test.html', var=var)
+
+
+# @app.route()
+# def test_route2():
+#     return 'testing 123'

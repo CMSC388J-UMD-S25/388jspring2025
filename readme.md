@@ -7,3 +7,6 @@
  - [Project 1](https://classroom.github.com/a/9aR_ryE1) ([README](projects/project01.md))
  - [Project 2](https://classroom.github.com/a/KcyDDQ8l) ([README](projects/project02.md))
    - [In Class Example Week2](inclass/week2)
+ - [Project 3 (Coming Soon)](/)
+   - [In Class Example Week3](inclass/week3)
+   - [In Class Example Week4](inclass/week4)
