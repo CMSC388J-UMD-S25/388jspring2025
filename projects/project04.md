@@ -217,7 +217,7 @@ is used by `Flask-Login` in order to retrieve the current user object.
    - `username`: required and unique with minimum length 1 and maximum length 40 characters
    - `email`: required and unique 
    - `password`: required (only store slow-hashed passwords!)
-   - `profile_pic`: optional
+   - `profile_pic`: optional `ImageField`
    - you should implement the `get_id()` method of `User` and `load_user(user_id)`
      - `get_id()` needs to return a string unique to each user and `load_user(user_id)` fetches a `User` object using that unique string
      - use the user's username for this unique string
