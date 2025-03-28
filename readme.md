@@ -13,3 +13,4 @@
  - [Project 4](https://classroom.github.com/a/xkNDvmYJ) ([README](projects/project04.md))
    - [In Class Example Week5](inclass/week5) **User Management**
    - [In Class Example Week6](inclass/week6) **Error Handing and Image Uploading**
+ - [Final Proposal](projects/final.md)
