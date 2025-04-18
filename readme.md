@@ -14,4 +14,4 @@
    - [In Class Example Week5](inclass/week5) **User Management**
    - [In Class Example Week6](inclass/week6) **Error Handing and Image Uploading**
  - [Final Proposal](projects/final.md)
- - [Final](project/howtosubmit.md)
+ - [Final](projects/howtosubmit.md)
